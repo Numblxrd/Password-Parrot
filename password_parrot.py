@@ -42,5 +42,3 @@ while True:
   print('\nThe Password Copied To Your Clipboard!\n')
 
   print('----------------------------------------')
-
-input()
